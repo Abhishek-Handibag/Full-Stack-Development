@@ -7,3 +7,4 @@ name1 = 5;
 console.log(name1);
 
 let number=55;
+console.log(typeof number); //used to check type of variables
