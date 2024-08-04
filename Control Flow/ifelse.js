@@ -10,3 +10,21 @@ else if(a>b){
 else{
     console.log('both are equal');
 }
+
+
+//example
+// Checking if a user is eligible for a discount
+let isLoggedIn = true;
+let cartAmount = 200;
+let discount;
+
+if (isLoggedIn) {
+    if (cartAmount > 100) {
+        discount = "20%";
+    } else {
+        discount = "10%";
+    }
+} else {
+    discount = "5%";
+}
+console.log("Your discount is " + discount);
