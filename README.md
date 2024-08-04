@@ -1,2 +1,2 @@
 # Full-Stack-Development
-Learning new things
+Learning the full stack development from basics.
